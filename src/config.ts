@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "http://wilfredd.me/",
   author: "Wilfred Obeng",
   desc: "The blog of a medical student who is interested in programming",
-  title: "Wilfred Obeng",
+  title: "Wilfred",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -13,7 +13,7 @@ export const SITE: Site = {
 export const LOCALE = ["en-EN"]; // set to [] to use the environment default
 
 export const LOGO_IMAGE = {
-  enable: true,
+  enable: false,
   svg: false,
   width: 216,
   height: 46,
