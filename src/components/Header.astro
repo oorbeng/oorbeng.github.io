@@ -18,7 +18,18 @@ const { activeNav } = Astro.props;
   <div class="nav-container">
     <div class="top-nav-wrap">
       <a href="/" class="logo">
-        WILFRED OBENG
+        {
+          LOGO_IMAGE.enable ? (
+            <img
+              src={LOGO_IMAGE.svg ? logoSVG : logoPNG}
+              alt="AstroPaper Logo"
+              width={LOGO_IMAGE.width}
+              height={LOGO_IMAGE.height}
+            />
+          ) : (
+            "WILFRED OBENG"
+          )
+        }
       </a>
       <nav id="nav-menu">
         <button
