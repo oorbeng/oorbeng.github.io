@@ -6,7 +6,7 @@ export const SITE: Site = {
   desc: "The blog of a medical student who is interested in programming",
   title: "Fred's Blog",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: true,
+  lightAndDarkMode: false,
   postPerPage: 3,
 };
 
