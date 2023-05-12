@@ -2,35 +2,33 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
+#### Who am I?
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+My name is Wilfred.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+I've been using Obsidian a lot lately. I'm interested in programming with Python, and I enjoy reading books, listening to podcasts and watching movies. 
+I'm currently reading Medicine in school.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+#### Why start a blog?
 
-## Features
+I started this blog because I want . . .
+  - to express myself 
+  - to get better at writing
+  -  to learn more about stuff
+  -  to share things I discover with others
+  -  to practice what I learn in web development
+  
 
-Here are certain features of this site.
+I also started this because I felt a desire to start something like this and see what happens.
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+
+#### How was this blog made?
+
+I did not build everything from scratch; I only tweaked one or two things in [Sat Naing](https://github.com/satnaing)'s [AstroPaper](https://astro.build/themes/details/astro-paper/).
