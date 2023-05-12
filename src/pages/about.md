@@ -11,7 +11,7 @@ I'm currently reading Medicine in school.
 
 
 <div>
-  <img src="/assets/boy.jpg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/fredpencil.jpg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
 
