@@ -25,7 +25,7 @@ I started this blog because I want . . .
   -  to practice what I learn in web development
   
 
-I also started this because I felt a desire to start something like this and see what happens.
+Also, I started it because I really wanted to start something like this and see how it all turns out.
 
 
 
