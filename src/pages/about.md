@@ -29,6 +29,8 @@ I also started this because I felt a desire to start something like this and see
 
 
 
+
+
 #### How was this blog made?
 
 I did not build everything from scratch; I only tweaked one or two things in [Sat Naing](https://github.com/satnaing)'s [AstroPaper](https://astro.build/themes/details/astro-paper/).
