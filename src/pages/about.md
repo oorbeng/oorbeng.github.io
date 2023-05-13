@@ -22,7 +22,7 @@ I started this blog because I want . . .
   - to get better at writing
   -  to learn more about stuff
   -  to share things I discover with others
-  -  to practice what I learn in web development
+  -  to practise what I learn in web development
   
 
 Also, I started it because I really wanted to start something like this and see how it all turns out.
