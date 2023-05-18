@@ -17,12 +17,12 @@ I'm currently reading Medicine in school.
 
 #### Why start a blog?
 
-I started this blog because I want . . .
-  - to express myself 
-  - to get better at writing
-  -  to learn more about stuff
-  -  to share things I discover with others
-  -  to practise what I learn in web development
+I started this blog because I want to . . .
+  - express myself 
+  - get better at writing
+  - learn more about stuff
+  - share things I discover with others
+  - practise what I learn in web development
   
 
 Also, I started it because I really wanted to start something like this and see how it all turns out.
