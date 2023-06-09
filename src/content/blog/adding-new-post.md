@@ -66,7 +66,7 @@ author: your name
 pubDatetime: 2022-09-21T05:17:19Z
 postSlug: the-title-of-the-post
 featured: true
-draft: false
+draft: true
 tags:
   - some
   - example
