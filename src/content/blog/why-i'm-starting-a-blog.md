@@ -4,7 +4,6 @@ pubDatetime: 2023-06-09T19:14:30.76
 title: Why I'm starting a blog
 postSlug: why-i'm-starting-a-blog
 featured: true
-ogImage: 
 tags:
   - thoughts
 description: I told myself I would start a blog some time ago, and I am excited to be starting now. I will be sharing my thoughts and experiences, as well as anything interesting I discover and find worthy to share. But why start a blog?. . .
