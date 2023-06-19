@@ -6,7 +6,7 @@ title: "About"
 
 My name is Wilfred.
 
-I've been using Obsidian a lot lately. I'm interested in programming with Python, and I enjoy reading books, listening to podcasts and watching movies. 
+I'm a Notion fan, I'm interested in programming with Python,and I also enjoy reading books, listening to podcasts and watching movies (dying out). 
 I'm currently reading Medicine in school.
 
 
