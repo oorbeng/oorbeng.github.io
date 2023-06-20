@@ -1,12 +1,12 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "http://wilfredd.me/",
+  website: "https://wilfredobeng.github.io/",
   author: "Wilfred Obeng",
-  desc: "The blog of a medical student who is interested in programming",
+  desc: "The blog of a medical student who is interested in programming and machine learning with Python",
   title: "Fred's Blog",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerPage: 5,
 };
 
