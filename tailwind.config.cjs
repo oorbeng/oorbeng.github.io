@@ -64,7 +64,8 @@ module.exports = {
       sm: '1em',
       base: '1.125rem',
       xl: '1.25rem',
-    },
+      
+    }
     // },
   },
   plugins: [require("@tailwindcss/typography")],
