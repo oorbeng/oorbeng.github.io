@@ -59,12 +59,6 @@ module.exports = {
     },
     fontFamily: {
       mono: ["Spectral", "IBM Plex Mono", "monospace"],
-    },
-    fontSize: {
-      sm: '1em',
-      base: '1.125rem',
-      xl: '1.25rem',
-      
     }
     // },
   },
