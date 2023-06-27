@@ -29,6 +29,7 @@ Also, I started it because I really wanted to start something like this and see 
 
 
 
+**\*\*** You may want to check out my [public Notion page](oorbeng.notion.site) if you're a medical student. Let me know if you find some of the stuff there useful.
 
 
 #### How was this blog made?
