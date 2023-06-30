@@ -15,8 +15,8 @@ I'm currently reading Medicine in school.
 </div>
 
 
-<div style="background-image: url(/assets/picture.jpg)">
-  <h4> Why start a blog? </h4>
+<div style="background-image: url(/assets/picture.jpg); background-position: right; background-repeat: no-repeat; background-size: cover; background-attachment: fixed; background-gradient: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1))">
+  <h4> Why s,tart a blog? </h4>
 
   <p>I started this blog because I want to . . .
     <ul>
