@@ -15,7 +15,8 @@ I'm currently reading Medicine in school.
 </div>
 
 
-#### Why start a blog?
+<div style="background-image: url(/assets/pictures/jpg)">
+<h4> Why start a blog? </h4>
 
 I started this blog because I want to . . .
   - express myself 
@@ -27,7 +28,7 @@ I started this blog because I want to . . .
 
 Also, I started it because I really wanted to start something like this and see how it all turns out.
 
-
+</div>
 
 **\*\*** You may want to check out my [public Notion page](https://oorbeng.notion.site) if you're a medical student. Let me know if you find some of the stuff there useful.
 
