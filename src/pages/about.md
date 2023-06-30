@@ -15,19 +15,20 @@ I'm currently reading Medicine in school.
 </div>
 
 
-<div style="background-image: url(/assets/pictures/jpg)">
-<h4> Why start a blog? </h4>
+<div style="background-image: url(/assets/picture.jpg)">
+  <h4> Why start a blog? </h4>
 
-I started this blog because I want to . . .
-  - express myself 
-  - get better at writing
-  - learn more about stuff
-  - share things I discover with others
-  - practise what I learn in web development
-  
+  <p>I started this blog because I want to . . .
+    <ul>
+      <li>express myself</li>
+      <li>get better at writing</li>
+      <li>learn more about stuff</li>
+      <li>share things I discover with others</li>
+      <li>practise what I learn in web development</li>
+    </ul>
 
-Also, I started it because I really wanted to start something like this and see how it all turns out.
-
+  Also, I started it because I really wanted to start something like this and see how it all turns out.
+  </p>
 </div>
 
 **\*\*** You may want to check out my [public Notion page](https://oorbeng.notion.site) if you're a medical student. Let me know if you find some of the stuff there useful.
