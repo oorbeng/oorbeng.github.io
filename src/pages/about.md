@@ -6,7 +6,7 @@ title: "About"
 
 My name is Wilfred.
 
-I'm a Notion fan, I'm interested in programming with Python, and I also enjoy reading books, listening to podcasts and watching movies (dying out). 
+I use Notion a lot, I'm interested in programming  and ML with Python, and I also enjoy reading books, listening to podcasts and watching movies (dying out). 
 I'm currently reading Medicine in school.
 
 
