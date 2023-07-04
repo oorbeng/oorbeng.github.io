@@ -6,7 +6,7 @@ title: "About"
 
 My name is Wilfred.
 
-I'm a Notion fan, I'm interested in programming with Python,and I also enjoy reading books, listening to podcasts and watching movies (dying out). 
+I'm a Notion fan, I'm interested in programming with Python, and I also enjoy reading books, listening to podcasts and watching movies (dying out). 
 I'm currently reading Medicine in school.
 
 
@@ -17,7 +17,7 @@ I'm currently reading Medicine in school.
 
 #### Why start a blog?
 
-I started this blog because I want to . . .
+I started this blog because I want to
 - express myself
 - get better at writing
 - learn more about stuff
