@@ -17,7 +17,7 @@ I'm currently reading Medicine in school.
 
 #### Why start a blog?
 
-I started this blog because I want to . . .
+I started this blog because I want to
 - express myself
 - get better at writing
 - learn more about stuff
