@@ -91,20 +91,6 @@ const ogImage = (text: string) => {
               fontSize: 28,
             }}
           >
-            {/* <span>
-              by{" "}
-              <span
-                style={{
-                  color: "transparent",
-                }}
-              >
-                "
-              </span> */}
-              {/* <span style={{ overflow: "hidden", fontWeight: "bold" }}>
-                {SITE.author}
-              </span> */}
-            </span>
-
             <span style={{ overflow: "hidden", fontWeight: "bold" }}>
               {SITE.title}
             </span>
