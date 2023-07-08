@@ -55,9 +55,9 @@ May I find the strength to forgive,
 And move forward with grace.  
 For holding onto anger and resentment,  
 Only harms me in the end.
-
   
   
-
+<br>
+<br>
   
-**Written by:** [ars_artium](https://twitter.com/ars_artium)
+Written by: [ars_artium](https://twitter.com/ars_artium)
