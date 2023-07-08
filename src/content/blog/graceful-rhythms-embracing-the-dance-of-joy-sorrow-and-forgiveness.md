@@ -14,6 +14,8 @@ description:
   And her smile widens like a blooming flower. . .
 ---
 
+**By**: [ars_artium](https://twitter.com/ars_artium)
+
 [1]
 
 When all is fair and the sun is high,  
