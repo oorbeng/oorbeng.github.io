@@ -13,7 +13,6 @@ export interface Props {
 
 const {
   title = SITE.title,
-  author = SITE.author,
   description = SITE.desc,
   ogImage = SITE.ogImage,
 } = Astro.props;
@@ -39,7 +38,6 @@ const socialImageURL = new URL(
     <title>{title}</title>
     <meta name="title" content={title} />
     <meta name="description" content={description} />
-    <meta name="author" content={author} />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:title" content={title} />
