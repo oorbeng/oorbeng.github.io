@@ -1,6 +1,6 @@
 ---
 author: Wilfred
-pubDatetime: 2023-06-09T19:14:30.76
+pubDatetime: 2023-06-09
 title: Why I'm starting a blog
 postSlug: why-i'm-starting-a-blog
 featured: true
