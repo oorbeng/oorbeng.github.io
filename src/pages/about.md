@@ -34,4 +34,4 @@ Also, I started it because I really wanted to start something like this and see 
 
 #### How was this blog made?
 
-I did not build everything from scratch; I made some changes in [Sat Naing](https://github.com/satnaing)'s [AstroPaper](https://astro.build/themes/details/astro-paper/).
+I did not build this site from scratch; I made some changes to [Sat Naing](https://github.com/satnaing)'s [AstroPaper](https://astro.build/themes/details/astro-paper/).
