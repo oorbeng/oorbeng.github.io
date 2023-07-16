@@ -7,7 +7,7 @@ title: "About"
 
 My name is Wilfred.
 
-I use Notion, I'm interested in programming and ML with Python, and I also enjoy reading books, listening to podcasts and watching movies (dying out).
+I use Obsidian for PKM, I'm interested in programming and ML with Python, and I also enjoy reading books, listening to podcasts and watching movies (fading away).
 I'm currently reading Medicine in school.
 
 <div>
