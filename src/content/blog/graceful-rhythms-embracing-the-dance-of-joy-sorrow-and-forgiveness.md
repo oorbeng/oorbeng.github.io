@@ -7,8 +7,8 @@ featured: false
 draft: false
 tags:
   - byothers
-description:
-  When all is fair and the sun is high, 
+  - poetry
+description: When all is fair and the sun is high,
   My actions and utterances
   bring gleeful sighs to the recipient,
   And her smile widens like a blooming flower. . .
@@ -18,7 +18,7 @@ description:
 
 When all is fair and the sun is high,  
 My actions and utterances  
-bring  gleeful sighs to the recipient,  
+bring gleeful sighs to the recipient,  
 And her smile widens like a blooming flower,  
 Her eyes, with joy, even tear up—  
 Make me grateful for these cherished ties.
@@ -55,8 +55,7 @@ May I find the strength to forgive,
 And move forward with grace.  
 For holding onto anger and resentment,  
 Only harms me in the end.
-  
-  
+
 <br>
 <br>
   
