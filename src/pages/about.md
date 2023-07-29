@@ -10,6 +10,8 @@ My name is Wilfred.
 I use Obsidian for PKM, I'm interested in programming and ML with Python, and I also enjoy reading books, listening to podcasts and watching movies (fading away).
 I'm currently reading Medicine in school.
 
+It's hard to find the right picture for stuff like this, so I put this here instead.
+
 <div>
   <img src="/assets/picture.jpg" class="sm:w-1/2 mx-auto" alt="Pencil drawing of a man/boy resting his arms on a chair">
 </div>
@@ -25,8 +27,6 @@ I started this blog because I want to
 - practise what I learn in web development
 
 Also, I started it because I really wanted to start something like this and see how it all turns out.
-
-
 
 #### How was this blog made?
 
