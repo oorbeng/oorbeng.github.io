@@ -7,7 +7,7 @@ title: "About"
 
 My name is Wilfred.
 
-I use Notion, I'm interested in programming and ML with Python, and I also enjoy reading books, listening to podcasts and watching movies (dying out).
+I use Obsidian for PKM, I'm interested in programming and ML with Python, and I also enjoy reading books, listening to podcasts and watching movies (fading away).
 I'm currently reading Medicine in school.
 
 <div>
@@ -26,7 +26,7 @@ I started this blog because I want to
 
 Also, I started it because I really wanted to start something like this and see how it all turns out.
 
-**\*\*** You may want to check out my [public Notion page](https://oorbeng.notion.site) if you're a medical student. Let me know if you find some of the stuff there useful.
+
 
 #### How was this blog made?
 
