@@ -58,7 +58,7 @@ module.exports = {
       transparent: "transparent",
     },
     fontFamily: {
-      mono: ["Roboto", "Spectral", "monospace"],
+      mono: ["Nunito", "Spectral", "monospace"],
     }
     // },
   },
