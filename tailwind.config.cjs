@@ -58,7 +58,7 @@ module.exports = {
       transparent: "transparent",
     },
     fontFamily: {
-      mono: ["Spectral", "IBM Plex Mono", "monospace"],
+      mono: ["Roboto", "Spectral", "monospace"],
     }
     // },
   },
