@@ -22,9 +22,9 @@ Let me resume my attempts to sleep.
 <br>
 <br>
 <br>
-<br>
-<br>
-
 Interesting stuff I came across last week:
+<br>
+  
+[900 Free Computer Science Courses from the World’s Top Universities](https://www.freecodecamp.org/news/free-courses-top-cs-universities/)
 
-- [900 Free Computer Science Courses from the World’s Top Universities](https://www.freecodecamp.org/news/free-courses-top-cs-universities/)
+<br>
