@@ -8,7 +8,7 @@ draft: false
 tags:
   - thoughts
   - weeklies
-description: They call me an "agenda" boy at times. They don't mean that I'm the kind of person who walks around with ulterior motives behind whatever I say or do (as may be suggested by dictionaries)...
+description: They call me an "agenda" boy at times. They don't mean that I'm the kind of person who walks around with ulterior motives behind whatever I say or do (as may be suggested by dictionaries). . .
 ---
 
 They call me an "agenda" boy at times. They don't mean that I'm the kind of person who walks around with ulterior motives behind whatever I say or do (as may be suggested by dictionaries). Here, the term refers to a rather interesting kind of teasing. This kind of teasing isn't meant to provoke the subject and typically involves the comic use of hyperboles in comments about someone's behavior (or an event in their life). The subjects of an "agenda" are often people you are close to - people you share some kind of vibe with. It usually ends with everyone laughing. "You dey like agenda", "you bi agenda boy pass", "I shun dey do agenda" and "agenda sweet pass" are some ways in which the term may be used.
