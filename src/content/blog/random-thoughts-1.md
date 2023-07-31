@@ -1,7 +1,7 @@
 ---
 author: wilfred
 pubDatetime: 2023-07-31T00:57:47.37
-title: Random Thoughts - 1
+title: Random thoughts - 1
 postSlug: random-thoughts-1
 featured: false
 draft: false
