@@ -10,7 +10,8 @@ tags:
   - poetry
 description: When all is fair and the sun is high,
   My actions and utterances
-  bring gleeful sighs to the recipient...
+  bring gleeful sighs to the recipient,
+  And her smile widens like a blooming flower...
 ---
 
 [1]
