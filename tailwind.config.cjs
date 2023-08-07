@@ -61,11 +61,6 @@ module.exports = {
     fontFamily: {
       mono: ["Lato", "Spectral", "monospace"],
     },
-    fontSize: {
-      sm: "1rem",
-      base: "1.125rem",
-      lg: "1.25rem",
-    }
     // },
   },
   plugins: [require("@tailwindcss/typography")],
