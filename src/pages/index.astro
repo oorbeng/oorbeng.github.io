@@ -37,7 +37,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <p>
         Hello 👋🏾, I use this space primarily as an outlet for my thoughts and
         experiences. Posts can be found below. There's more about me on the
-        <a href="/about" style="text-decoration: none; color: #006CAC">About</a>
+        <a href="/about/" style="text-decoration: none; color: #006CAC">About</a
+        >
         page.
         <br />
         <br />
@@ -56,6 +57,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </p>
 
       <hr />
+
+      <!-- What do I do to fix this problem? -->
 
       {
         featuredPosts.length > 0 && (
@@ -137,6 +140,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     #featured,
     #recent-posts {
       @apply pt-12 pb-6;
+      margin-left: 0px;
+      margin-right: 0px;
     }
     #featured h2,
     #recent-posts h2 {
