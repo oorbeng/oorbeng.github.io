@@ -8,7 +8,7 @@ draft: false
 tags:
   - thoughts
   - weeklies
-description: They call me an "agenda" boy at times. They don't mean that I'm the kind of person who walks around with ulterior motives behind whatever I say or do (as may be suggested by dictionaries)...
+description: They call me an "agenda" boy at times. They don't mean that I'm the kind of person who walks around with ulterior motives...
 ---
 
 They call me an "agenda" boy at times. They don't mean that I'm the kind of person who walks around with ulterior motives behind whatever I say or do (as may be suggested by dictionaries). Here, the term refers to a rather interesting kind of teasing. This kind of teasing isn't meant to provoke the other person, and it typically involves the comic use of hyperboles in comments about the person's behavior (or an event in their life). The people you subject to an "agenda" are often those you are close to - people you share some kind of vibe with. It usually ends with everyone laughing.
