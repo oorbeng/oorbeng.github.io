@@ -46,6 +46,7 @@ module.exports = {
     borderColor: {
       skin: {
         line: withOpacity("--color-border"),
+
         fill: withOpacity("--color-text-base"),
         accent: withOpacity("--color-accent"),
       },
@@ -58,7 +59,12 @@ module.exports = {
       transparent: "transparent",
     },
     fontFamily: {
-      mono: ["Spectral", "Nunito", "monospace"],
+      mono: ["Lato", "Spectral", "monospace"],
+    },
+    fontSize: {
+      sm: "1rem",
+      base: "1.125rem",
+      lg: "1.25rem",
     }
     // },
   },
