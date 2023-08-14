@@ -7,7 +7,6 @@ featured: false
 draft: false
 tags:
   - byothers
-  - poetry
 description: When all is fair and the sun is high,
   My actions and utterances
   bring gleeful sighs to the recipient,

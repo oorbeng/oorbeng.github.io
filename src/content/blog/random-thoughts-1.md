@@ -7,7 +7,6 @@ featured: false
 draft: false
 tags:
   - thoughts
-  - weeklies
 description: They call me an "agenda" boy at times. They don't mean that I'm the kind of person who walks around with ulterior motives behind whatever I say or do.
 ---
 
