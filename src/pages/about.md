@@ -26,7 +26,7 @@ I started this blog because I want to
 - share things I discover with others
 - practise what I learn in web development
 
-Also, I started it because I wanted to see how it will turn out.
+Also, I started it because I really wanted to see how it will turn out.
 
 #### How was this blog made?
 
