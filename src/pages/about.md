@@ -20,13 +20,13 @@ It's hard to find the right picture for stuff like this, so I put this here inst
 
 I started this blog because I want to
 
-- express myself
-- get better at writing
-- learn more about stuff
-- share things I discover with others
-- practise what I learn in web development
+- express myself,
+- get better at writing,
+- learn more about stuff,
+- share things I discover with others, and
+- practise what I learn in web development.
 
-Also, I started it because I really wanted to see how it will turn out.
+Also, I started it because I really want to see how it will turn out.
 
 #### How was this blog made?
 
