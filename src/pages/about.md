@@ -7,7 +7,7 @@ title: "About"
 
 My name is Wilfred.
 
-I use Notion, I'm interested in programming and machine learning with Python, and I also enjoy reading books, listening to podcasts and watching movies (fading away).
+I use Obsidian, I'm interested in programming and machine learning with Python, and I also enjoy reading books, listening to podcasts and watching movies (fading away).
 I'm currently reading Medicine in school.
 
 It's hard to find the right picture for stuff like this, so I put this here instead.
