@@ -17,14 +17,3 @@ I've noticed that it brings people closer to each other (or at least I think so)
 <br>
 <br>
 Let me resume my attempts to sleep.
-
-<br>
-<br>
-<br>
-
-<b>Interesting stuff I came across last week:</b>
-<br>
-
-[900 Free Computer Science Courses from the World’s Top Universities](https://www.freecodecamp.org/news/free-courses-top-cs-universities/)
-
-<br>
