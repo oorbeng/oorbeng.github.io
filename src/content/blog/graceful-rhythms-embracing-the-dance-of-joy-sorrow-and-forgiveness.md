@@ -7,11 +7,7 @@ featured: false
 draft: false
 tags:
   - byOthers
-description: When all is fair and the sun is high,
-  My actions and utterances
-  bring gleeful sighs to the recipient,
-  And her smile widens like a blooming flower,
-  Her eyes, with joy, even tear...
+description: A poem that was written by a friend of mine.
 ---
 
 [1]
