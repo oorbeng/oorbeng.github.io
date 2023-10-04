@@ -6,7 +6,7 @@ postSlug: why-i'm-starting-a-blog
 featured: true
 tags:
   - thoughts
-description: I've always wanted to do this and I'm doing it now. Here's why.
+description: I've always thought of having a blog or personal website. Here's why I'm starting this one.
 ---
 
 I told myself I would start a blog some time ago, and I am excited to be starting now. I will be sharing my thoughts and experiences, as well as anything interesting I discover and find worthy to share. But why start a blog? There are several reasons why I am embarking on this new journey, and I will be sharing them in this post.
