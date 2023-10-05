@@ -10,10 +10,11 @@ My name is Wilfred.
 I use Obsidian, I'm interested in programming and machine learning with Python, and I also enjoy reading books, listening to podcasts and watching movies (fading away).
 I'm currently reading Medicine in school.
 
-It's hard to find the right picture for stuff like this, so I put this here instead.
-
 <div>
-  <img src="/assets/picture.jpg" class="sm:w-1/2 mx-auto" alt="Pencil drawing of a man/boy resting his arms on a chair">
+  <figure>
+    <img src="/assets/picture.jpg" class="sm:w-1/2 mx-auto" alt="Pencil drawing of a man/boy resting his arms on a chair">
+    <figcaption>It's hard to find the right picture for stuff like this, so I put this here instead.</figcaption>
+  </figure>
 </div>
 
 #### Why start a blog?
