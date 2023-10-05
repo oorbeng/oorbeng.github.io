@@ -13,7 +13,7 @@ I'm currently reading Medicine in school.
 <div>
   <figure>
     <img src="/assets/picture.jpg" class="sm:w-1/2 mx-auto" alt="Pencil drawing of a man/boy resting his arms on a chair">
-    <figcaption>It's hard to find the right picture for stuff like this, so I put this here instead.</figcaption>
+    <figcaption style="text-align: center">It's hard to find the right picture for stuff like this, so I put this here instead.</figcaption>
   </figure>
 </div>
 
