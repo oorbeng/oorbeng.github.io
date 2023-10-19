@@ -3,7 +3,7 @@ author: wilfred
 pubDatetime: 2023-10-19T00:57:47.37
 title: I'm starting with math and more Python
 postSlug: i'm-creating-a-new-tag
-featured: true
+featured: false
 draft: false
 tags:
   - devjourn
