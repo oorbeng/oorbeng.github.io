@@ -14,7 +14,7 @@ I said I was going to post weekly, but I didn't post anything last week. Sorry a
 <br>
 <br>
 
-## What I'm going to focus on
+### What I'm going to focus on
 
 What I'm interested in is machine learning, so I'm going to focus on that for now. In [Mathematics for Machine Learning](https://mml-book.github.io/), three items are listed as pre-requisite knowledge for a good understand of how machine learning algorithms work:
 
@@ -26,7 +26,7 @@ After consulting a few blog posts and Reddit threads, I've decided to begin my l
 <br>
 <br>
 
-## What I'll be learning in the coming weeks
+### What I'll be learning in the coming weeks
 
 Over the coming weeks, I'll be learning concepts in linear algebra, statistics, probability, and multivariate calculus (I hope I don't quit). For linear algebra, I will be studying Gilbert Strang's _Introduction to Linear Algebra_ and supplementing it with MIT's 18.06 course materials. Stanford's CS 109 will be my main guide for Probability, but I'm yet to settle on a book or course for statistics. I'll be following MIT's 18.02 course for multivariate calculus.
 
