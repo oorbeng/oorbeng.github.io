@@ -7,7 +7,7 @@ featured: true
 draft: false
 tags:
   - devjourn
-description: I said I was going to post weekly, but I didn't post anything last week. Here's what I have for this week
+description: I said I was going to post weekly, but I didn't post anything last week. Here's what I have for this week.
 ---
 
 I said I was going to post weekly, but I didn't post anything last week. Sorry about that. I've not done much to be honest. My last update was posted a few days after my final exam for the academic year, and I guess I needed to take some time off to relax. I initially wanted to start work on an idea for a web app I had, so I planned to learn how to use some frontend frameworks, but I changed my mind. Web development doesn't really excite me.
