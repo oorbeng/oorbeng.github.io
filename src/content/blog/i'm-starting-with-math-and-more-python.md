@@ -32,6 +32,8 @@ Over the coming weeks, I'll be learning concepts in linear algebra, statistics, 
 
 I'll also be revisiting some Python topics and learning new ones alongside my math studies. I've come to know that project-based learning is the most effective way to truly learn a language and its tools, so that is what I'll be doing - working on projects.
 
+I will continue to document my progress in future posts. If you happen to have any advice or resource(s) that you believe would be helpful, please feel free to share with me.
+
 <br> 
 <br>  
 <br>
@@ -39,4 +41,4 @@ I'll also be revisiting some Python topics and learning new ones alongside my ma
 <br>
 <br>
   
-*PS: This and subsequent posts are a means to document my learning progress and hold myself accountable. If you happen to have any advice or resource(s) that you believe would be of help, please do not hesitate to share with me.*
+*PS: This and subsequent posts are a means to hold myself accountable throughout this learning journey.*
