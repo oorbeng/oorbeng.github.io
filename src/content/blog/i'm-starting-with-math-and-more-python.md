@@ -25,7 +25,7 @@ After consulting a few blog posts and Reddit threads, I've decided to begin my l
 
 ### What I'll be learning in the coming weeks
 
-Over the coming weeks, I'll be learning concepts in linear algebra, statistics, probability, and multivariate calculus (I hope I don't quit). For linear algebra, I will be studying Gilbert Strang's _Introduction to Linear Algebra_ and supplementing it with MIT's 18.06 course materials. Stanford's CS 109 will be my main guide for Probability, but I'm yet to settle on a book or course for statistics. I'll be following MIT's 18.02 course for multivariate calculus.
+Over the coming weeks, I'll be learning concepts in linear algebra, statistics, probability, and multivariate calculus (I hope I don't quit). For linear algebra, I will be studying Gilbert Strang's 'Introduction to Linear Algebra' and supplementing it with MIT's 18.06 course materials. Stanford's CS 109 will be my main guide for Probability, but I'm yet to settle on a book or course for statistics. I'll be following MIT's 18.02 course for multivariate calculus.
 
 I'll also be revisiting some Python topics and learning new ones alongside my math studies. I've come to know that project-based learning is the most effective way to truly learn a language and its tools, so that is what I'll be doing - working on projects.
 
