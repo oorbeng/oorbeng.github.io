@@ -59,7 +59,7 @@ module.exports = {
       transparent: "transparent",
     },
     fontFamily: {
-      mono: ["Spectral", "Lato", "monospace"],
+      mono: ["Inconsolata", "Lato", "monospace"],
     },
     // },
   },
