@@ -2,7 +2,7 @@
 author: wilfred
 pubDatetime: 2023-10-04T00:57:47.37
 title: I'm creating a new tag
-postSlug: i'm-creating-a-new-tag
+postSlug: creating-a-new-tag
 featured: true
 draft: false
 tags:
