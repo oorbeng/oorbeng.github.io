@@ -17,7 +17,7 @@ const { activeNav } = Astro.props;
   <a id="skip-to-content" href="#main-content">Skip to content</a>
   <div class="nav-container">
     <div class="top-nav-wrap">
-      <a href="/" class="logo">
+      <a href="/" class="logo" style="font-family: Lato">
         {
           LOGO_IMAGE.enable ? (
             <img
@@ -37,7 +37,7 @@ const { activeNav } = Astro.props;
           aria-label="Open Menu"
           aria-expanded="false"
           aria-controls="menu-items"
-        > 
+        >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
