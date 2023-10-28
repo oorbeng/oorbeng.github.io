@@ -17,6 +17,3 @@ So, what have I learned since my last post? I've learned about vectors, vector d
 I didn’t do much Python. Since the earlier post, I've gone back to look at exception handling, iterators, generators, namespaces, variable scopes, and some object-oriented programming concepts. I think namespaces are cool. I'll take a closer look at object-oriented programming over the weekend and start learning about data structures and algorithms in the following weeks. I want to spend the weekend trying my hands on problem sets and exercises related to what I've learned so far so I won’t be watching any math lecture videos.
 
 I think I have to make the Python projects a monthly thing.
-<br>
-
-PS: This and subsequent posts are mainly a means to hold myself accountable throughout this learning journey.
