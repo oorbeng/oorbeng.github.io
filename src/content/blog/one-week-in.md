@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - devjourn
-description: Yes. I've started doing some math.
+description: Yes, I've started doing some math.
 ---
 
 I have to be more consistent about when I write these. I've decided to stick with Fridays.
