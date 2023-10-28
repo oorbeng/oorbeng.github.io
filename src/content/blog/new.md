@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - devjourn
-description: Wednesday, Thursday, and then Friday? I have to be more regular!
+description: Yes. I've started doing some math.
 ---
 
 I have to be more consistent about when I write these. I've decided to stick with Fridays.
