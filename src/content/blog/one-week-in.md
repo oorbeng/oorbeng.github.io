@@ -1,6 +1,6 @@
 ---
 author: wilfred
-pubDatetime: 2023-10-27 T00:57:47.37
+pubDatetime: 2023-10-27T00:57:47.37
 title: One week in
 postSlug: one-week-in
 featured: false
