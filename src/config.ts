@@ -46,13 +46,13 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:oorbeng@gmail.com",
+    href: "mailto:wilfred.obeng7@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
   {
     name: "Twitter",
-    href: "https://twitter.com/oorbeng",
+    href: "https://twitter.com/_derf8",
     linkTitle: `${SITE.title} on Twitter`,
     active: true,
   },
