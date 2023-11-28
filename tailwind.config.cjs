@@ -61,6 +61,11 @@ module.exports = {
     fontFamily: {
       mono: ["Inconsolata", "Lato", "monospace"],
     },
+    fontSize: {
+      // other sizes...
+      base: ['16px', '24px'], // Increase the base font size to 16px (from the default of 14px)
+      // other sizes...
+    },
     // },
   },
   plugins: [require("@tailwindcss/typography")],
