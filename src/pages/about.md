@@ -7,13 +7,12 @@ title: "About"
 
 My name is Wilfred.
 
-I use Obsidian, I'm interested in programming and machine learning with Python, and I also enjoy reading books, listening to podcasts and watching movies (fading away).
-I'm currently reading Medicine in school.
+I'm a med student. I use Obsidian, I'm interested in programming and machine learning with Python, and I enjoy listening to podcasts.
 
 <div>
   <figure>
     <img src="/assets/picture.jpg" class="sm:w-1/2 mx-auto" alt="Pencil drawing of a man/boy resting his arms on a chair">
-    <figcaption style="text-align: center">It's hard to find the right picture for stuff like this, so I put this here instead.</figcaption>
+    <figcaption style="text-align: center">This is not me.</figcaption>
   </figure>
 </div>
 
