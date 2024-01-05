@@ -7,7 +7,7 @@ title: "About"
 
 My name is Wilfred.
 
-I'm a med student. I use Obsidian, I'm interested in programming and machine learning with Python, and I enjoy listening to podcasts.
+I use Obsidian, I'm interested in programming and machine learning with Python, and I enjoy listening to podcasts. I'm currently studying Medicine in school.
 
 <div>
   <figure>
