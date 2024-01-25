@@ -6,7 +6,7 @@ export const SITE: Site = {
   desc: "Medical student who is interested in programming and machine learning with Python",
   title: "wilfred",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerPage: 5,
 };
 
