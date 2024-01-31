@@ -5,7 +5,7 @@ title: Why I'm starting a blog
 postSlug: starting-a-blog
 featured: true
 tags:
-  - thoughts
+  - writing
 description: I've always thought of having a blog or personal website. Here's why I'm starting this one.
 ---
 
