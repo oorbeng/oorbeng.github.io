@@ -11,7 +11,7 @@ I use Obsidian, I'm interested in programming and machine learning with Python, 
 
 <div>
   <figure>
-    <img style="border-radius: 5%; box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;" src="/assets/picture.jpg" class="sm:w-1/2 mx-auto" alt="Pencil drawing of a man/boy resting his arms on a chair">
+    <img style="border-radius: 3%; box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;" src="/assets/picture.jpg" class="sm:w-1/2 mx-auto" alt="Pencil drawing of a man/boy resting his arms on a chair">
     <figcaption style="text-align: center">This is not me.</figcaption>
   </figure>
 </div>
