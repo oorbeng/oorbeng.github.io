@@ -6,7 +6,7 @@ postSlug: random-thoughts-1
 featured: false
 draft: false
 tags:
-  - thoughts
+  - random
 description: Just a random thought.
 ---
 
