@@ -11,7 +11,7 @@ I use Obsidian, I'm interested in programming and machine learning with Python, 
 
 <div>
   <figure>
-    <img src="/assets/picture.jpg" class="sm:w-1/2 mx-auto" alt="Pencil drawing of a man/boy resting his arms on a chair">
+    <img style="border-radius: 50%" src="/assets/picture.jpg" class="sm:w-1/2 mx-auto" alt="Pencil drawing of a man/boy resting his arms on a chair">
     <figcaption style="text-align: center">This is not me.</figcaption>
   </figure>
 </div>
