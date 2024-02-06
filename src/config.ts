@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://oorbeng.github.io",
   author: "Wilfred Obeng",
   desc: "Medical student who is interested in programming and machine learning with Python",
-  title: "wilfred",
+  title: "Obeng",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 5,
