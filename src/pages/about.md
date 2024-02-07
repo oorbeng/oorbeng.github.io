@@ -5,7 +5,7 @@ title: "About"
 
 #### Who am I?
 
-I'm Obeng.
+My name is Wilfred.
 
 I use Obsidian, I'm interested in programming and machine learning with Python, and I enjoy listening to podcasts. I'm currently studying Medicine in school.
 
