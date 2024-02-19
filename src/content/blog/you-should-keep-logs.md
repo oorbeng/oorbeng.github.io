@@ -1,6 +1,6 @@
 ---
 author: wilfred
-pubDatetime: 2023-02-19T01:39:47.37
+pubDatetime: 2024-02-19T01:39:47.37
 title: I think you should keep logs
 postSlug: you-should-keep-logs
 featured: false
