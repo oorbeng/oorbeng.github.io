@@ -8,6 +8,7 @@ draft: false
 tags:
   - habits
 description: I prefer this to traditional journaling because it's quick and I experience less limbic friction.
+---
 
 Every week for me begins with a Google Keep note that bears the title of the week's number in relation to the year. This week's note, for example, is titled 'Week 8'. What goes into these notes as the week goes by are reminders, memories, ideas, and other expressions of thought and emotion.
 
