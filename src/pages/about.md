@@ -7,7 +7,7 @@ title: "About"
 
 My name is Wilfred.
 
-I'm currently studying Medicine in school. I spend a great deal of my "free" time getting lost on the internet, writing programs, reading books and essays, listening to podcast episodes, bingeing YouTube and sleeping.
+I'm currently studying Medicine in school. I spend a great deal of my "free" time getting lost on the internet, listening to podcasts, and learning concepts in Computational Neuroscience.
 
 <div>
   <figure>
