@@ -4,7 +4,7 @@ pubDatetime: 2023-07-31T00:57:47.37
 title: Random thoughts - 1
 postSlug: random-thoughts-1
 featured: false
-draft: false
+draft: true
 tags:
   - random
 description: Just a random thought.
