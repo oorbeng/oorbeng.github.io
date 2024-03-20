@@ -4,7 +4,7 @@ pubDatetime: 2023-10-27T00:57:47.37
 title: One week in
 postSlug: one-week-in
 featured: false
-draft: false
+draft: true
 tags:
   - devjourn
 description: Yes, I've started doing some math.
