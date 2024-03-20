@@ -4,7 +4,7 @@ pubDatetime: 2023-10-04T00:57:47.37
 title: I'm creating a new tag
 postSlug: creating-a-new-tag
 featured: false
-draft: false
+draft: true
 tags:
   - devjourn
 description: I'm adding 'devjourn' to my list of tags.
