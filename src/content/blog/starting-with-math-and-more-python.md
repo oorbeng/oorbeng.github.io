@@ -4,7 +4,7 @@ pubDatetime: 2023-10-19T00:57:47.37
 title: I'm starting with math and more Python
 postSlug: math-and-more-python
 featured: false
-draft: false
+draft: true
 tags:
   - devjourn
 description: I said I was going to post weekly, but I didn't post anything last week. Here's what I have for this week.
